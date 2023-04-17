@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega4809"</DEVICE>
+ <WORKING_DIR>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m4809def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\Debug\post_display.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>post_display.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>post_display.map</FILE>
+  <FILE>post_display.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bcd_entries><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>11</LINE></bcd_entries>
+  <led_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>12</LINE></led_display>
+  <digit_num><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>13</LINE></digit_num>
+  <mode><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>17</LINE></mode>
+  <reset><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>21</LINE></reset>
+  <start><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>27</LINE></start>
+  <display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>74</LINE></display>
+  <setup_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>60</LINE></setup_loop>
+  <main_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>65</LINE></main_loop>
+  <multiplex_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>139</LINE></multiplex_display>
+  <post_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>96</LINE></post_display>
+  <dig0><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>121</LINE></dig0>
+  <dig1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>125</LINE></dig1>
+  <dig2><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>129</LINE></dig2>
+  <dig3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>133</LINE></dig3>
+  <return_from_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>111</LINE></return_from_display>
+  <overflow><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>167</LINE></overflow>
+  <output><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>146</LINE></output>
+  <checking_dig><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\post_display\post_display\main.asm</FILE><LINE>156</LINE></checking_dig>
+ </LABELS>
+</ASSEMBLER_INFO>

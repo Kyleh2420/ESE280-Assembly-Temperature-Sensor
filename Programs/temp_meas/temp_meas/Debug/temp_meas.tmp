@@ -1,0 +1,68 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\Debug\temp_meas.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>temp_meas.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>temp_meas.map</FILE>
+  <FILE>temp_meas.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bcd_entries><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>13</LINE></bcd_entries>
+  <led_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>14</LINE></led_display>
+  <digit_num><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>15</LINE></digit_num>
+  <reset><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>19</LINE></reset>
+  <start><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>26</LINE></start>
+  <multiplex_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>313</LINE></multiplex_display>
+  <ADC0_response><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>118</LINE></ADC0_response>
+  <post_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>423</LINE></post_display>
+  <loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>91</LINE></loop>
+  <mpy16u><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>519</LINE></mpy16u>
+  <Div4096><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>145</LINE></Div4096>
+  <negative><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>169</LINE></negative>
+  <continueUpdate><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>175</LINE></continueUpdate>
+  <bin2BCD16><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>573</LINE></bin2BCD16>
+  <tBCD0><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>556</LINE></tBCD0>
+  <hex_to_7seg><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>269</LINE></hex_to_7seg>
+  <tBCD1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>557</LINE></tBCD1>
+  <positiveEntry3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>220</LINE></positiveEntry3>
+  <negativeEntry3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>213</LINE></negativeEntry3>
+  <retADC><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>232</LINE></retADC>
+  <hextable><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>285</LINE></hextable>
+  <turn_off><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>316</LINE></turn_off>
+  <overflow><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>393</LINE></overflow>
+  <output><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>339</LINE></output>
+  <checking_dig><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>349</LINE></checking_dig>
+  <dig0><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>360</LINE></dig0>
+  <dig1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>365</LINE></dig1>
+  <dig2><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>370</LINE></dig2>
+  <dig3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>375</LINE></dig3>
+  <restore><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>381</LINE></restore>
+  <repeatPost><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>428</LINE></repeatPost>
+  <leftShiftPOST><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>433</LINE></leftShiftPOST>
+  <postDispOn><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>439</LINE></postDispOn>
+  <oneSecDelay><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>479</LINE></oneSecDelay>
+  <outer_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>480</LINE></outer_loop>
+  <inner_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>482</LINE></inner_loop>
+  <m16u_1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>525</LINE></m16u_1>
+  <noad8><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>528</LINE></noad8>
+  <tBCD2><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>558</LINE></tBCD2>
+  <bBCDx_1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>585</LINE></bBCDx_1>
+  <bBCDx_2><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>609</LINE></bBCDx_2>
+  <bBCDx_3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\temp_meas\temp_meas\main.asm</FILE><LINE>613</LINE></bBCDx_3>
+ </LABELS>
+</ASSEMBLER_INFO>

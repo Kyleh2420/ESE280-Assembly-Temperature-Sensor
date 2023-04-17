@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"AVR128DB48"</DEVICE>
+ <WORKING_DIR>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\AVR-Dx_DFP\1.6.76\avrasm\inc\AVR128DB48def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\Debug\ADC_MCP9700A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ADC_MCP9700A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ADC_MCP9700A.map</FILE>
+  <FILE>ADC_MCP9700A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <bcd_entries><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>13</LINE></bcd_entries>
+  <led_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>14</LINE></led_display>
+  <digit_num><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>15</LINE></digit_num>
+  <reset><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>19</LINE></reset>
+  <start><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>26</LINE></start>
+  <multiplex_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>246</LINE></multiplex_display>
+  <ADC0_response><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>118</LINE></ADC0_response>
+  <post_display><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>356</LINE></post_display>
+  <loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>91</LINE></loop>
+  <hex_to_7seg><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>202</LINE></hex_to_7seg>
+  <retADC><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>168</LINE></retADC>
+  <hextable><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>218</LINE></hextable>
+  <turn_off><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>249</LINE></turn_off>
+  <overflow><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>326</LINE></overflow>
+  <output><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>272</LINE></output>
+  <checking_dig><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>282</LINE></checking_dig>
+  <dig0><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>293</LINE></dig0>
+  <dig1><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>298</LINE></dig1>
+  <dig2><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>303</LINE></dig2>
+  <dig3><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>308</LINE></dig3>
+  <restore><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>314</LINE></restore>
+  <repeatPost><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>361</LINE></repeatPost>
+  <leftShiftPOST><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>366</LINE></leftShiftPOST>
+  <postDispOn><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>372</LINE></postDispOn>
+  <oneSecDelay><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>412</LINE></oneSecDelay>
+  <outer_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>413</LINE></outer_loop>
+  <inner_loop><FILE>D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\Lab 11\Programs\ADC_MCP9700A\ADC_MCP9700A\main.asm</FILE><LINE>415</LINE></inner_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

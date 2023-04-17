@@ -1,0 +1,48 @@
+(ExpressProject "Lab11Task3"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\lab11task3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MCP9700A-ETO
+      (FullPartName "MCP9700A-ETO.Normal")
+      (LibraryName
+         "D:\STONY BROOK UNIVERSITY\2 - SOPHOMORE YEAR\ESE 280-L03\ORCAD LIBRARIES\2020-11-16_18-49-13.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Kyle Han")
+  (LastUsedLibraryBrowseDirectory
+     "D:\Stony Brook University\2 - Sophomore Year\ESE 280-L03\OrCad Libraries")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "-337 -4")
+        (Zoom "87")
+        (Occurrence "/"))
+      (Path
+         "D:\STONY BROOK UNIVERSITY\2 - SOPHOMORE YEAR\ESE 280-L03\LAB 11\ORCAD\LAB11TASK3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
